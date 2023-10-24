@@ -4,7 +4,7 @@
 ### Create a folder and inside it
 #### Create a folder named 'img' which will contain all images needs to processed
 #### Create a folder named 'Output Image' for processed images
-#### Create a seperate virtual environment and install
+#### Create a separate virtual environment or install packages for the entire system
 Packages:
 ```
 Pillow==10.1.0
