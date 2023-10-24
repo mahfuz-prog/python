@@ -1,8 +1,8 @@
 import os
-from PIL import Image
-from pillow_heif import register_heif_opener
 import sys
 import time
+from PIL import Image
+from pillow_heif import register_heif_opener
 
 register_heif_opener()
 
