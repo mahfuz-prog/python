@@ -1,4 +1,4 @@
-# HEIC to Png converter
+# HEIC to png, jpg, jpeg converter
 
 
 ### Create a folder and inside it
@@ -10,7 +10,7 @@ Packages:
 Pillow==10.1.0
 pillow-heif==0.13.1
 ```
-#### Use run.py file to do the rest
+#### Use run.py & input format on cmd to do the rest
 ```
 python run.py
 ```
