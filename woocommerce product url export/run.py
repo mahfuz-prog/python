@@ -14,11 +14,11 @@ for page in range(1,25):
   for product in products:
     # product contain a set of string {'like this'}
     # convert the set into string and slice to get actual link
-    link = str(product.absolute_links)[2:-2]
+    product_url = str(product.absolute_links)[2:-2]
 
     # save into text file
-    f.write(f'{link}\n')
-    print(link)
+    f.write(f'{product_url}\n')
+    print(product_url)
 
   total_products = len(products)
   print(f'Total {total_products} product in page {page}')
