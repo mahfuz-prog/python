@@ -13,8 +13,8 @@ for page in range(1,25):
   products = response.html.find('li.product')
   for product in products:
     # product contain a set of string {'like this'}
-    # convert the set into string and slice to get actual link
-    product_url = str(product.absolute_links)[2:-2]
+    # convert the set into list and access the first one
+    product_url = list(product.absolute_links)[0]
 
     # save into text file
     f.write(f'{product_url}\n')
