@@ -12,7 +12,6 @@ r = session.post('https://demo.com/mahfuj/wp-login.php/', data=payload)
 print(f'response for login {r}')
 
 admin_post_page = session.get('https://demo.com/mahfuj/wp-admin/edit.php').text
-print(f'response for requested page {r}')
 
 # save the post as a html file
 page_html = create_html_page('demo', admin_post_page)
