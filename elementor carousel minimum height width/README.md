@@ -5,6 +5,7 @@
 #### To achieve this using python
 * From elementor carousel set the image size full.
 * Run the script on google colab or a local machine.
+
 Packages:
 ```
 Pillow==10.1.0
