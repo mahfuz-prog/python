@@ -7,8 +7,11 @@
 * Run the script on google colab or a local machine.
 
 Packages:
-```
+```bash
 Pillow==10.1.0
 requests-html==0.10.0
 ```
 * After getting minimum width and height set elementor image carousel size to minimum
+
+![carousel](Screenshot 2023-11-15 033804.png)
+
