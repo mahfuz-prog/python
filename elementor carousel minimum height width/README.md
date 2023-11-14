@@ -13,5 +13,5 @@ requests-html==0.10.0
 ```
 * After getting minimum width and height set elementor image carousel size to minimum
 
-![carouselsolution](Screenshot 2023-11-15 033804.png)
+![solution](solution.png)
 
