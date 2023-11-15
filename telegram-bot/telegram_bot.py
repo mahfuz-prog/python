@@ -75,15 +75,18 @@ async def main(phone, notification, get_time):
             print(res)
             #logic for notification and send message to channel
             if sum(res1) == 144:
-                #await client.send_message(receiver, f'Stage 5, Suggested {int(sum(res1)/2)}, Time {get_time(message.date)}')
+                # await client.send_message(receiver, f'Stage 5, Suggested \
+                # 	{int(sum(res1)/2)}, Time {get_time(message.date)}')
                 notification(sum(res1)/2, 'stage 5').show()
                 time.sleep(300)
             elif sum(res1) == 432:
-                #await client.send_message(receiver, f'Stage 6, Suggested {int(sum(res1)/2)}, Time {get_time(message.date)}')
+                # await client.send_message(receiver, f'Stage 6, Suggested \
+                # 	{int(sum(res1)/2)}, Time {get_time(message.date)}')
                 notification(sum(res1)/2, 'stage 6').show()
                 time.sleep(300)
             elif sum(res1) == 1296:
-                #await client.send_message(receiver, f'Stage 7, Suggested {int(sum(res1)/2)}, Time {get_time(message.date)}')
+                # await client.send_message(receiver, f'Stage 7, Suggested \
+                # 	{int(sum(res1)/2)}, Time {get_time(message.date)}')
                 notification(sum(res1)/2, 'stage 7').show()
                 time.sleep(300)
             elif sum(res1) == 3888:
