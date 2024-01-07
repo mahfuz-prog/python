@@ -122,7 +122,6 @@ def start_scraping(vid_info):
 url = 'https://updraft.cyfrin.io/courses/security/smart-contract-security-introduction/trailer'
 
 # Run this function to save all information
-# after that 
 # save_info(url)
 
 vid_info = load_info()
