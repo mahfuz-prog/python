@@ -1,0 +1,1357 @@
+{
+  "1": {
+    "title": "trailer",
+    "section": "smart-contract-security-introduction",
+    "url": "https://stream.mux.com/j4JboXum46f3HSinGWmJcVRmxvrb2tjrvelQopMbl4E.m3u8?redundant_streams=true"
+  },
+  "2": {
+    "title": "welcome-smart-contracts-security",
+    "section": "smart-contract-security-introduction",
+    "url": "https://stream.mux.com/7IwS00CgjQhzlsi6pyfGFY8bRLbG00WmACbjQhyF02zh7M.m3u8?redundant_streams=true"
+  },
+  "3": {
+    "title": "prerequisites",
+    "section": "smart-contract-security-introduction",
+    "url": "https://stream.mux.com/SZWWX8nzn1GMgAtt5Tml3y02mPLVI466Zpp5GDOaMrOA.m3u8?redundant_streams=true"
+  },
+  "4": {
+    "title": "best-practices",
+    "section": "smart-contract-security-introduction",
+    "url": "https://stream.mux.com/S5VAXDa01KuOWZy02zhKWM4jwp02kldzp3Qjjk01IR9mwes.m3u8?redundant_streams=true"
+  },
+  "5": {
+    "title": "current-state-of-web3-security",
+    "section": "smart-contract-security-introduction",
+    "url": "https://stream.mux.com/uQc2m7WqBFujlEYutmhSLcgVBTm0201v8XUF02oyN7hAKY.m3u8?redundant_streams=true"
+  },
+  "6": {
+    "title": "exercises",
+    "section": "smart-contract-security-introduction",
+    "url": "https://stream.mux.com/3CDs300T02oHqjuR1WnIP4vxSxqHDRt3f1chsH5BYNccw.m3u8?redundant_streams=true"
+  },
+  "7": {
+    "title": "tooling-requisites",
+    "section": "review",
+    "url": "https://stream.mux.com/u402E99ThbDHbSFBQiboYBRMzY992t3PA00yxf4qXuqf8.m3u8?redundant_streams=true"
+  },
+  "8": {
+    "title": "solidity-requisites",
+    "section": "review",
+    "url": "https://stream.mux.com/iYZ4cd02KTxdyUG44SuIzZo1fah02ychPCr3qs4NUZOSg.m3u8?redundant_streams=true"
+  },
+  "9": {
+    "title": "fuzzing-and-invariants",
+    "section": "review",
+    "url": "https://stream.mux.com/4bjEKZNJ724C4jGzJHzDs1Q6Q4rLK7zUDbPhY8G0200pc.m3u8?redundant_streams=true"
+  },
+  "10": {
+    "title": "installing-libraries",
+    "section": "review",
+    "url": "https://stream.mux.com/WcKJ201TiFW5Y1Yexh003HWfGO1g3hZYHrfOsDeb5owEg.m3u8?redundant_streams=true"
+  },
+  "11": {
+    "title": "what-is-erc20",
+    "section": "review",
+    "url": "https://stream.mux.com/00SC46ZIyrWRIJCiZZ02D45MT9z701pENw6V6L1hnyYbf00.m3u8?redundant_streams=true"
+  },
+  "12": {
+    "title": "what-is-erc721",
+    "section": "review",
+    "url": "https://stream.mux.com/fl00teXY2FM5FsJWEPP5pTDVzPuAxpAxfO44VLT3wnyI.m3u8?redundant_streams=true"
+  },
+  "13": {
+    "title": "advanced-solidity-prerequisites",
+    "section": "review",
+    "url": "https://stream.mux.com/sF1SqpxJTXlB5ryqqf00oNmxJbXmwtGTtYneI0002DHnbU.m3u8?redundant_streams=true"
+  },
+  "14": {
+    "title": "storage",
+    "section": "review",
+    "url": "https://stream.mux.com/oo6EIQXLzJxP3aySehqbm1xmwKZnBkI4AhH8tvbcdF00.m3u8?redundant_streams=true"
+  },
+  "15": {
+    "title": "fallback-and-receive",
+    "section": "review",
+    "url": "https://stream.mux.com/gPDUwI529HOhQuW8xGtf5H009LgG702DDHWMtAtxuNG02Y.m3u8?redundant_streams=true"
+  },
+  "16": {
+    "title": "abi-encode",
+    "section": "review",
+    "url": "https://stream.mux.com/f7wx2PhJ2afdUY8Fj02kloU3kFVzR7B0200802vcmVXJano.m3u8?redundant_streams=true"
+  },
+  "17": {
+    "title": "encoding-function",
+    "section": "review",
+    "url": "https://stream.mux.com/89KzeB39oMA00iePKhUu02hMA7W1yWJ600yiT7LW7YDKNg.m3u8?redundant_streams=true"
+  },
+  "18": {
+    "title": "upgradeable-contracts",
+    "section": "review",
+    "url": "https://stream.mux.com/K902iJAEuzYdUJQaaieWgz3yUelOZCZUtSaxpVa2HZB4.m3u8?redundant_streams=true"
+  },
+  "19": {
+    "title": "self-destruct",
+    "section": "review",
+    "url": "https://stream.mux.com/u8d9MFK6ZfLZM01iwx4QgjoqwlXbod5O8qFAL1M834YU.m3u8?redundant_streams=true"
+  },
+  "20": {
+    "title": "fork-tests",
+    "section": "review",
+    "url": "https://stream.mux.com/xIGaLqCsO54VGZN46tCho9Eu1EQVa5P4tZUILwZx60100.m3u8?redundant_streams=true"
+  },
+  "21": {
+    "title": "what-is-an-audit",
+    "section": "audit",
+    "url": "https://stream.mux.com/XQFbLD01uq85UnD00r4HRqNTLJR1N2SXmGzFieV5TaOi8.m3u8?redundant_streams=true"
+  },
+  "22": {
+    "title": "the-audit",
+    "section": "audit",
+    "url": "https://stream.mux.com/Um3uQhbBS2PBoz01L9dAdJAZ8m3EtU7KNdIX7Xjp02T0200.m3u8?redundant_streams=true"
+  },
+  "23": {
+    "title": "rekt-test",
+    "section": "audit",
+    "url": "https://stream.mux.com/o8pD01qyek02l5jZzhkuYQUPMk1RosmjfV28tzk6N02Wqc.m3u8?redundant_streams=true"
+  },
+  "24": {
+    "title": "tools",
+    "section": "audit",
+    "url": "https://stream.mux.com/EKJ02V7fAflkO2wJLhBp8K4oztVnAY5vzb902OBL2znZM.m3u8?redundant_streams=true"
+  },
+  "25": {
+    "title": "hacked",
+    "section": "audit",
+    "url": "https://stream.mux.com/LVwtMj026jE4kCW6yEa3EVd8PPAuoKpANRGeDw902ClTs.m3u8?redundant_streams=true"
+  },
+  "26": {
+    "title": "attacks",
+    "section": "audit",
+    "url": "https://stream.mux.com/zwmJv9KnDfe8zgCio1oR00AM2w95AXpfXYWoqXxQEdjE.m3u8?redundant_streams=true"
+  },
+  "27": {
+    "title": "recap",
+    "section": "audit",
+    "url": "https://stream.mux.com/8Htqm7N3yiDLZqakaXKmOhsbnAeYVOqv4BCJP8s8XVE.m3u8?redundant_streams=true"
+  },
+  "28": {
+    "title": "exercises",
+    "section": "audit",
+    "url": "https://stream.mux.com/vM5P9GThlMPgtYln1Dsj3dlIjAeXh02UeCO58Cidjt01M.m3u8?redundant_streams=true"
+  },
+  "29": {
+    "title": "first-review",
+    "section": "first-audit",
+    "url": "https://stream.mux.com/xi009v02oVduUZvKxmOSpvgVJ9gMiT5uVH5hpYpposeNk.m3u8?redundant_streams=true"
+  },
+  "30": {
+    "title": "etherscan",
+    "section": "first-audit",
+    "url": "https://stream.mux.com/TBBnNcYbNpBbC2KO0100y2ZltsqKEF8F7StV2LDM7JKv8.m3u8?redundant_streams=true"
+  },
+  "31": {
+    "title": "details",
+    "section": "first-audit",
+    "url": "https://stream.mux.com/BXBrKOTDgRH1kLCkbuvDeKi402N00ORbbYBcr1p1jRzjo.m3u8?redundant_streams=true"
+  },
+  "32": {
+    "title": "cloc",
+    "section": "first-audit",
+    "url": "https://stream.mux.com/Hby7oUlL5mA3WH6V7FrpykgJDIbCMxKo9w9Bn3PIlL4.m3u8?redundant_streams=true"
+  },
+  "33": {
+    "title": "recap-i",
+    "section": "first-audit",
+    "url": "https://stream.mux.com/smoYD01Ts102Hl01jqqrXktfZXw6JoF4h447OcwQS01upT8.m3u8?redundant_streams=true"
+  },
+  "34": {
+    "title": "process-tincho",
+    "section": "first-audit",
+    "url": "https://stream.mux.com/khYrr59ml01mq9jd002HJ6Tb00IwQhInpgoZ6z2byEPYI00.m3u8?redundant_streams=true"
+  },
+  "35": {
+    "title": "context",
+    "section": "first-audit",
+    "url": "https://stream.mux.com/pAws02rmrcgSlXrGrXrrikJoABnxom7Fg00lOH7UFUjyY.m3u8?redundant_streams=true"
+  },
+  "36": {
+    "title": "understanding-the-code",
+    "section": "first-audit",
+    "url": "https://stream.mux.com/eytYrimZ6NEl302ikAUKrPmYth2U01zPuttgXknpDUsgs.m3u8?redundant_streams=true"
+  },
+  "37": {
+    "title": "access-control",
+    "section": "first-audit",
+    "url": "https://stream.mux.com/iAYbiPR8PadCov18QADc49PfsLUzK9SHE4J7gaZ8z9s.m3u8?redundant_streams=true"
+  },
+  "38": {
+    "title": "exploit-public-data",
+    "section": "first-audit",
+    "url": "https://stream.mux.com/sEgUDhLqFIH3UOtAIv2n24BJ6wpKvf7d8WfFh991QC00.m3u8?redundant_streams=true"
+  },
+  "39": {
+    "title": "recap-ii",
+    "section": "first-audit",
+    "url": "https://stream.mux.com/THQHBVMjwuQ00M3t1vk8Ynb700yZCa8ecZ9DXt5rnfutc.m3u8?redundant_streams=true"
+  },
+  "40": {
+    "title": "protocol-tests",
+    "section": "first-audit",
+    "url": "https://stream.mux.com/ESXGvNkUbo2pk00w1u01Ksl1GhmIoA3zEuISqRTiUaKaw.m3u8?redundant_streams=true"
+  },
+  "41": {
+    "title": "finding-report",
+    "section": "first-audit",
+    "url": "https://stream.mux.com/DYHxa01R7uH6pzvyGoeEZXZqb7632xGQdNEVkS3B4Ls00.m3u8?redundant_streams=true"
+  },
+  "42": {
+    "title": "an-amazing-title",
+    "section": "first-audit",
+    "url": "https://stream.mux.com/8DClGnjCCFH00W4MEvC00EB7oTDcAL02QzZnxqOR5U0002Cs.m3u8?redundant_streams=true"
+  },
+  "43": {
+    "title": "description",
+    "section": "first-audit",
+    "url": "https://stream.mux.com/CbPeHWYYC3Ksldo9pLi00J008mQCYO2epKYrdxpWTgGds.m3u8?redundant_streams=true"
+  },
+  "44": {
+    "title": "proof-of-code",
+    "section": "first-audit",
+    "url": "https://stream.mux.com/ZYae2hc9owgu7zUQiASt6KfTp7DZQIGMu6eFuY1Uf2w.m3u8?redundant_streams=true"
+  },
+  "45": {
+    "title": "recommended-mitigation",
+    "section": "first-audit",
+    "url": "https://stream.mux.com/Lia01zwicRN2QHaa2K1QOw00jExxTtuEJM5jzkwYaQNPQ.m3u8?redundant_streams=true"
+  },
+  "46": {
+    "title": "finding-writeup",
+    "section": "first-audit",
+    "url": "https://stream.mux.com/CtEwzh2krYHieRIi4Te5lA29h4r5e6Cgmtbm02YDutxc.m3u8?redundant_streams=true"
+  },
+  "47": {
+    "title": "access-control-writeup",
+    "section": "first-audit",
+    "url": "https://stream.mux.com/fpBbCzn33lNwFO002faSAcVjlHyfLhfI9EU02juP5QlOg.m3u8?redundant_streams=true"
+  },
+  "48": {
+    "title": "missing-access-controls-proof-of-code",
+    "section": "first-audit",
+    "url": "https://stream.mux.com/ZoLuxe2JHLCa01K1CkZdQxTgbV1H9pg7yk00beEL023Q54.m3u8?redundant_streams=true"
+  },
+  "49": {
+    "title": "finding-writeup-docs",
+    "section": "first-audit",
+    "url": "https://stream.mux.com/u1anf3HQb47og5FDQicBK29BMfrCQ9vMXNkD57Xg00ZM.m3u8?redundant_streams=true"
+  },
+  "50": {
+    "title": "augmented-report-with-ai",
+    "section": "first-audit",
+    "url": "https://stream.mux.com/LF8ECfsk7E025bCFXcT9KnDYDhOvknIL01UeNkiZJFCwQ.m3u8?redundant_streams=true"
+  },
+  "51": {
+    "title": "quick-primer-on-what-we-are-learning-next",
+    "section": "first-audit",
+    "url": "https://stream.mux.com/01e3dSk89WqeZhvPuvu5LZmNq3bd849eSDUkqwvO4t3Q.m3u8?redundant_streams=true"
+  },
+  "52": {
+    "title": "severity-rating-introduction",
+    "section": "first-audit",
+    "url": "https://stream.mux.com/02GntIjVRQZvnqgYavxGEWbMzNoZ98an31qf02BG6qDak.m3u8?redundant_streams=true"
+  },
+  "53": {
+    "title": "assesing-highs",
+    "section": "first-audit",
+    "url": "https://stream.mux.com/ukTF1ZbIFTRK2n024mfiuJ015XVpcLuzlWy01GZh9oAq00M.m3u8?redundant_streams=true"
+  },
+  "54": {
+    "title": "severity-rating-informational",
+    "section": "first-audit",
+    "url": "https://stream.mux.com/PoNB79RjwrMKqxGwoTpLq8u3jvVsF82btZwus3Ay01cI.m3u8?redundant_streams=true"
+  },
+  "55": {
+    "title": "timeboxing",
+    "section": "first-audit",
+    "url": "https://stream.mux.com/P7zwQ61fT529E61VUjAySCR7Y9cHzpI3ugjlKCbTgAc.m3u8?redundant_streams=true"
+  },
+  "56": {
+    "title": "making-a-pdf",
+    "section": "first-audit",
+    "url": "https://stream.mux.com/EyZXPkYslpNZ01jYOiUgHE02CQTHfVlo02UooTEwq3IAxs.m3u8?redundant_streams=true"
+  },
+  "57": {
+    "title": "building-your-portfolio",
+    "section": "first-audit",
+    "url": "https://stream.mux.com/28oC00nqKBGCBI6ItZ9LTxe8VgUxPK02bxgw9YqgRJUlI.m3u8?redundant_streams=true"
+  },
+  "58": {
+    "title": "exercises",
+    "section": "first-audit",
+    "url": "https://stream.mux.com/IXCGXVL01xRERCplfZDhaObUY2ydD02opBPet01g02DMtos.m3u8?redundant_streams=true"
+  },
+  "59": {
+    "title": "recap-&-congrats",
+    "section": "first-audit",
+    "url": "https://stream.mux.com/dUiPgdeN7ksisuykAP4mpgPxn33jurP2fWIeDoHDCyk.m3u8?redundant_streams=true"
+  },
+  "60": {
+    "title": "introduction",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/02Yjab00x9Nd01Dn5e1Z3oWthPxq91ihNv5uHIASObiJF00.m3u8?redundant_streams=true"
+  },
+  "61": {
+    "title": "puppy-raffle-primer",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/QrZX01ONG5oJ1ciOXhw1B2G88pF9BWB5IP3FIw8pgQAw.m3u8?redundant_streams=true"
+  },
+  "62": {
+    "title": "phase-1-scoping",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/QXA0077rZrBDjU3JlIMEJJPM45AyU12RjdL1Y4sUax02g.m3u8?redundant_streams=true"
+  },
+  "63": {
+    "title": "tooling-slither",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/WH00nL8yLV00AYJRsTcNGbYUJeWDB8qeABsODj7ZilE3o.m3u8?redundant_streams=true"
+  },
+  "64": {
+    "title": "tooling-aderyn",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/cYAn1V8VKFyg4pDqHeigrlN2ttJhwI1ZQHZRKOFYLc8.m3u8?redundant_streams=true"
+  },
+  "65": {
+    "title": "tooling-solidity-visual-developer",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/Dek01sy02wtQk00J2Kfrf4302V68TYm00VPBXMHYLxPIcYtM.m3u8?redundant_streams=true"
+  },
+  "66": {
+    "title": "recon-reading-docs",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/ZVGX01fRYnBjs4V00gHyS9apA1nHgA102Ed501KvqezHyzc.m3u8?redundant_streams=true"
+  },
+  "67": {
+    "title": "recon-reading-the-code",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/LPwoILK9EA00IuxBDv1vNL02doAOebBkfzjEPSQ84eZTc.m3u8?redundant_streams=true"
+  },
+  "68": {
+    "title": "recon-reading-docs-continued",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/01Y7ckXfjR2ikuPmu1LTs401rW5cLQ6t7VegBDMW7KfoM.m3u8?redundant_streams=true"
+  },
+  "69": {
+    "title": "sc-exploits-minimized",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/OSMLqn1AAWsIApMjLLTWOingE2AIOAWjZQfcuest6w8.m3u8?redundant_streams=true"
+  },
+  "70": {
+    "title": "exploit-denial-of-service",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/mM00102cLTV005LZgeRkPvCb00ztJPl2FnMv00nAG7XcoshM.m3u8?redundant_streams=true"
+  },
+  "71": {
+    "title": "dos-case-study",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/lsOACFdb015xAPbt5ecssfxFS2aMG0102ljJW3q8sjAUJE.m3u8?redundant_streams=true"
+  },
+  "72": {
+    "title": "dos-poc",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/mZ00aPnzz01LUw01Ao1lRc7HOu3WVCQUanHv00n6MzXUGgw.m3u8?redundant_streams=true"
+  },
+  "73": {
+    "title": "dos-reporting",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/XL5qC8ErrYyD16uRBXQSVbJl9EVAXB301jLbmdnkpLQY.m3u8?redundant_streams=true"
+  },
+  "74": {
+    "title": "dos-mitigation",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/nX4J02l7F7OyMhMKc021g2XMWiVTlCJIe6EQlnntumps8.m3u8?redundant_streams=true"
+  },
+  "75": {
+    "title": "exploit-business-logic-edge-case",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/gpV00mHPi15v024Efr11vjG53d0200AWOLPrwLkkFU2BEKk.m3u8?redundant_streams=true"
+  },
+  "76": {
+    "title": "recon-refund",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/PuTubb3L021vIcpDZ6gYqQJqIH1rvMLxS5cGAwTu2eBM.m3u8?redundant_streams=true"
+  },
+  "77": {
+    "title": "exploit-reentrancy",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/2KjHW8LArPS02RZNZb02FweQUeF69mVeusNbTOxuQit94.m3u8?redundant_streams=true"
+  },
+  "78": {
+    "title": "reentrancy-remix-example",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/ofbpMEnxat1l00hO021o6i2UfPCttt00jO6SN1Ch52QzA8.m3u8?redundant_streams=true"
+  },
+  "79": {
+    "title": "reentrancy-mitigation",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/IGzSibsaeUY4WxwVZWazPQi2L9GhXkJooL3WlWpBlJQ.m3u8?redundant_streams=true"
+  },
+  "80": {
+    "title": "reentrancy-menace-to-society",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/QuJ6BbhtDyNBqG2Su02Y100IJ4J4fiosyb9TUGFmA00Gxk.m3u8?redundant_streams=true"
+  },
+  "81": {
+    "title": "reentrancy-recap",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/ZQzGSv02kuMLvaN9imml16BaPWb00ZUxyB2ULSncc7t00I.m3u8?redundant_streams=true"
+  },
+  "82": {
+    "title": "reentrancy-poc",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/AyeF5xrkAiYrAm4uH1id2JlumwL67Re1GpzerPTrTYQ.m3u8?redundant_streams=true"
+  },
+  "83": {
+    "title": "recon-continued",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/NhZ500cBSKSrf6ROlqMhqPtbQoOHbi6WoEe51H9C2x2I.m3u8?redundant_streams=true"
+  },
+  "84": {
+    "title": "exploit-weak-randomness",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/Ej3Cgk3xfWXpqa8P5WTCNBFDCo7vVRk01wkjViEzUkfI.m3u8?redundant_streams=true"
+  },
+  "85": {
+    "title": "weak-randomness-multiple-issues",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/K2A00fSWWtRpOFj32H900qMwvS779kZXOAl00GFThIVu5o.m3u8?redundant_streams=true"
+  },
+  "86": {
+    "title": "weak-randomness-case-study",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/xlTTGNN02YD3RRQDZBOAo00gTiZHjzxMubn5S02n71PTvw.m3u8?redundant_streams=true"
+  },
+  "87": {
+    "title": "weak-randomness-mitigation",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/mJOyBovWIwZYszgVMcBetmpet4VbtRP3YXyzwpwblrk.m3u8?redundant_streams=true"
+  },
+  "88": {
+    "title": "exploit-integer-overflow",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/rqT5q00UWGMM7yy82yK02h3655YYtJV832DU8yhhOWCR4.m3u8?redundant_streams=true"
+  },
+  "89": {
+    "title": "integer-overflow-mitigation",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/g4oqGIg7hF0102exQnyBhNlaAB2OsX6WKuZ8wYRr02Gns8.m3u8?redundant_streams=true"
+  },
+  "90": {
+    "title": "unsafe-casting",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/YBvahGC3O2RcQLtPsOCuU6901UQsygpBjZ8Ew3AIIrg4.m3u8?redundant_streams=true"
+  },
+  "91": {
+    "title": "recon-continued-2",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/ihCoLDxSFounXaGL3sGS5MJtjUS00e9MIj5B02RPwJ59w.m3u8?redundant_streams=true"
+  },
+  "92": {
+    "title": "exploit-mishandling-of-eth",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/YO2OKZVHcm7s02BSNdKdBsOuOGuJO9yFMpDUZzt00Z2024.m3u8?redundant_streams=true"
+  },
+  "93": {
+    "title": "mishandling-of-eth-minimized",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/D02cjLBEIt1fXDMpU9JzEPRexaBU3Jg3egzhJE02wPxnY.m3u8?redundant_streams=true"
+  },
+  "94": {
+    "title": "mishandling-of-eth-case-study",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/jEarsr8ctgtmxVcGQ72Wn8m4kbX9t2KWQF4G101Y02BAs.m3u8?redundant_streams=true"
+  },
+  "95": {
+    "title": "recon-continued-3",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/ROxQ01UHkXgowLtHWWqW77DEAxoBV84qh91MgbWbNwH00.m3u8?redundant_streams=true"
+  },
+  "96": {
+    "title": "answering-our-questions",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/vrEL95cQXxkqmfLeKALFEHE19FFJ00avx101R01EPi1ltg.m3u8?redundant_streams=true"
+  },
+  "97": {
+    "title": "info-and-gas-findings",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/UmO71NH6ERcRe9tuR00ekLefSee2jX82Ld00D01GJQlAew.m3u8?redundant_streams=true"
+  },
+  "98": {
+    "title": "pit-stop",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/6EUWIh9H6ExxyBWHW3D5302g2lCyp4bgm7OTXD00jT00lw.m3u8?redundant_streams=true"
+  },
+  "99": {
+    "title": "slither-walkthrough",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/8xCUno78bcmNZZHYAMBcOyZG2m5NkhN8qhfdpFhMkN4.m3u8?redundant_streams=true"
+  },
+  "100": {
+    "title": "aderyn-walkthrough",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/jCUWPhEGzeaIcp5dJhEw4g7l8aJ4NOf00CgKD5G7Cq00Q.m3u8?redundant_streams=true"
+  },
+  "101": {
+    "title": "test-coverage",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/JbFWxsW4022U1kVcBMt00K3To7nnnWPrCAjYc5DaQMnKI.m3u8?redundant_streams=true"
+  },
+  "102": {
+    "title": "phase-4-reporting-primer",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/Jsp4X635wKDgIIYVDaoduT02qoDZgaQMvikfwJsy49PY.m3u8?redundant_streams=true"
+  },
+  "103": {
+    "title": "what-is-a-competitive-audit",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/dsk3T5vbxU02jH492Jcf9ZY8fWsTRw01Rm00rOn02CNzXBo.m3u8?redundant_streams=true"
+  },
+  "104": {
+    "title": "codehawks",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/dfOozck01i7mh194rjsDXe9K02XLvi7UQgIO8Qd02zqYU8.m3u8?redundant_streams=true"
+  },
+  "105": {
+    "title": "submitting-a-competitive-audit-finding",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/X4Q9e4slmU9pL01rPBnKYmRGk2rtOM13FqBcATBlIRuE.m3u8?redundant_streams=true"
+  },
+  "106": {
+    "title": "reporting-templates",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/022dgMG01duWP2i9vBhErS01cnYDKAPvM8SCL93hjaT1bk.m3u8?redundant_streams=true"
+  },
+  "107": {
+    "title": "reporting-floating-pragma",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/lnhM01BzVd3rWWQASg0000WHDbAFWNbR3jivlVTOvtQCv00.m3u8?redundant_streams=true"
+  },
+  "108": {
+    "title": "reporting-incorrect-solc-version",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/im9q1Wpc901UCiih1BLDZg6ewD6McHGyv5GzzxzDkNXU.m3u8?redundant_streams=true"
+  },
+  "109": {
+    "title": "reporting-unchanged-state-variables-should-be-immutable-or-constant",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/3LwLVQ5u74onsAKUEcWmSuZUzV2osOKQekJTC7YLVr4.m3u8?redundant_streams=true"
+  },
+  "110": {
+    "title": "reporting-zero-address-check",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/q02pwE2OhfpJ00v9uksMLGehGxntAB49Jx5Oz3ayhFiZI.m3u8?redundant_streams=true"
+  },
+  "111": {
+    "title": "reporting-storage-variables-in-loops-should-be-cached",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/3xflgJsmhwWq4yQLCFsAN302kr9rwu01dlgyRsrMebfp00.m3u8?redundant_streams=true"
+  },
+  "112": {
+    "title": "reporting-findings-we'll-cover-later",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/iW7Xulrh3BtIZ01E0101y4G9OKJ300wdyx6TGuw9kWs7sp4.m3u8?redundant_streams=true"
+  },
+  "113": {
+    "title": "reporting-reentrancy",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/QM9fgv9GOhI02Hv00cbvVTAZc4dDLQtXVGDjoVlhQ002OA.m3u8?redundant_streams=true"
+  },
+  "114": {
+    "title": "reporting-getActivePlayerIndex-incorrect-for-edge-case",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/rrpN3S3H02pZ00xmnNhg6juOKj02otr5I28KnTc27I7x01A.m3u8?redundant_streams=true"
+  },
+  "115": {
+    "title": "reporting-should-follow-cei",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/UH4i6O3jqmRTqQoVPkonfZdrpy01Gd00DQEHbAZMt7WEk.m3u8?redundant_streams=true"
+  },
+  "116": {
+    "title": "reporting-weak-randomness",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/esHpEFhlZ8FNWEGUT501FCLzrmMV1P32mWTywbpo01rmM.m3u8?redundant_streams=true"
+  },
+  "117": {
+    "title": "reporting-magic-numbers",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/YZJPFoPoAnSJ8WwzKvLlb7MQ027mPU8FAdDtYCDdtMFE.m3u8?redundant_streams=true"
+  },
+  "118": {
+    "title": "reporting-integer-overflow",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/Qu2fgua01IMbwQiLGcy7OOnOj73bmdCw6SYlVG2NLkCE.m3u8?redundant_streams=true"
+  },
+  "119": {
+    "title": "reporting-smart-contract-wallet-reverts-winning",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/5n01fhvcNxXLLAJx01g5tV82UoZjhxjG4Vrz7uv01dbFb00.m3u8?redundant_streams=true"
+  },
+  "120": {
+    "title": "reporting-mishandling-of-eth",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/hkAJeXIrnASRt8ZuKsfvcrmcGLunb1QxxlgOgBMo500s.m3u8?redundant_streams=true"
+  },
+  "121": {
+    "title": "reporting-missing-events-and-remove-dead-code",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/Uq1cq402i1k3hsPgOVjGtVQAXZQcbw02ZLtb016vuBRf00U.m3u8?redundant_streams=true"
+  },
+  "122": {
+    "title": "adding-the-audit-to-our-portfolio",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/D1M02NFuke02zmyAu8eAUiHWronJFzAvGsxumG4Mt2z6M.m3u8?redundant_streams=true"
+  },
+  "123": {
+    "title": "exercises",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/3IfZwGlsO9K02LUDgAaSb8jsnUltDsV7MifMH8qCe7V8.m3u8?redundant_streams=true"
+  },
+  "124": {
+    "title": "solodit",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/DzlS01Ier56kx009IsB2DaS00m1LPW4HypELxUegm878gI.m3u8?redundant_streams=true"
+  },
+  "125": {
+    "title": "wrapping-up",
+    "section": "puppy-raffle",
+    "url": "https://stream.mux.com/MiGd85HXLxSy005IARKrGHD01AXme01v7mfDwFreMctCYQ.m3u8?redundant_streams=true"
+  },
+  "126": {
+    "title": "introduction",
+    "section": "tswap",
+    "url": "https://stream.mux.com/Ummg02Io4mqR02gbE02Ajd00mbtRSWF02QgiDuuVqEd500gF00.m3u8?redundant_streams=true"
+  },
+  "127": {
+    "title": "phase-1-scoping",
+    "section": "tswap",
+    "url": "https://stream.mux.com/J8keCLBxWY01ckQQmpl5LPqZ3X02HRwwjly6IL3u4l4VM.m3u8?redundant_streams=true"
+  },
+  "128": {
+    "title": "primer-on-this-review",
+    "section": "tswap",
+    "url": "https://stream.mux.com/rzFEOWoy8eg9xa00fEWpB269vMtyoClvuA6J597rvY00k.m3u8?redundant_streams=true"
+  },
+  "129": {
+    "title": "what-is-a-dex",
+    "section": "tswap",
+    "url": "https://stream.mux.com/tYZiE4cU00JTzVmBoQ02bvni00M4S5onYqGkTQLTLHOraA.m3u8?redundant_streams=true"
+  },
+  "130": {
+    "title": "what-is-amm",
+    "section": "tswap",
+    "url": "https://stream.mux.com/hcaTWeWr7FV6DhzTW35q6500rQOmqIeA2RPaSVvjiWvw.m3u8?redundant_streams=true"
+  },
+  "131": {
+    "title": "liquidity-providers",
+    "section": "tswap",
+    "url": "https://stream.mux.com/omJrL01ykVB5zgQ5UYnNeZBtMWtHpHuB2TonfBkOZmN4.m3u8?redundant_streams=true"
+  },
+  "132": {
+    "title": "how-amms-work",
+    "section": "tswap",
+    "url": "https://stream.mux.com/zJAJSEA014rfj6VNwcIbCRic01jhR8bDsVk4wCZ3vvBjA.m3u8?redundant_streams=true"
+  },
+  "133": {
+    "title": "t-swap-recon-continued",
+    "section": "tswap",
+    "url": "https://stream.mux.com/knE1hhvNNInu6UDaUpUcB009IRMz801so7fgDECNZuq1U.m3u8?redundant_streams=true"
+  },
+  "134": {
+    "title": "invariant-&-properties-introduction",
+    "section": "tswap",
+    "url": "https://stream.mux.com/IDlcJVI801yE5cL00TjoLILVMQ6N02pSVHht8c4HyzMbN4.m3u8?redundant_streams=true"
+  },
+  "135": {
+    "title": "stateful-and-stateless-fuzzing",
+    "section": "tswap",
+    "url": "https://stream.mux.com/xQx6cWAYc7smFlIS800iYrTKmzFNeI0252UZoX8usT2tY.m3u8?redundant_streams=true"
+  },
+  "136": {
+    "title": "stateless-and-stateful-fuzzing-practice",
+    "section": "tswap",
+    "url": "https://stream.mux.com/WFMFpiMv02tkF01CdWAlHn01gtmJ101oQmD9MLr003LxkC68.m3u8?redundant_streams=true"
+  },
+  "137": {
+    "title": "stateless-fuzzing",
+    "section": "tswap",
+    "url": "https://stream.mux.com/00TNZxT2re4tNO88zGwdb12ssA9fUDxByOGgZvEN2H00M.m3u8?redundant_streams=true"
+  },
+  "138": {
+    "title": "where-stateless-fuzzing-fails",
+    "section": "tswap",
+    "url": "https://stream.mux.com/02AK19ljI63pu4cbDsKkJCgrjnBW101zIUKUzBt00Eum00w.m3u8?redundant_streams=true"
+  },
+  "139": {
+    "title": "fuzzing-where-method-1-fails",
+    "section": "tswap",
+    "url": "https://stream.mux.com/iZX9yLjkpgEbXjjuBnUcETEtjs4UUyvUHIn1OXYWIxc.m3u8?redundant_streams=true"
+  },
+  "140": {
+    "title": "stateful-fuzzing-method-2",
+    "section": "tswap",
+    "url": "https://stream.mux.com/a01yHqmMWhOEY79XH1gkkBboGZ01nJGkzudX5VnjBXQaY.m3u8?redundant_streams=true"
+  },
+  "141": {
+    "title": "Debugging-Fuzz-Sequences",
+    "section": "tswap",
+    "url": "https://stream.mux.com/RnyCSAFxT00kVdWQ1DCFWsz94SFQiBZFScRyrlh02JCw8.m3u8?redundant_streams=true"
+  },
+  "142": {
+    "title": "fuzzing-recap",
+    "section": "tswap",
+    "url": "https://stream.mux.com/ZIreQHFgdWlZ5jhfq51kxYNglTrhnlQ9LNkW5kybSCM.m3u8?redundant_streams=true"
+  },
+  "143": {
+    "title": "weird-erc20",
+    "section": "tswap",
+    "url": "https://stream.mux.com/m1vcLcx9Hm2EscLBPq2jk93Gj4xFU8LW65qqwPQ02tLM.m3u8?redundant_streams=true"
+  },
+  "144": {
+    "title": "writing-stateful-fuzz-test-suite",
+    "section": "tswap",
+    "url": "https://stream.mux.com/T01QiR8liaNn83eu02na8c5eRUv2YNPN1lrReX022P13WM.m3u8?redundant_streams=true"
+  },
+  "145": {
+    "title": "constant-product-formula-explained",
+    "section": "tswap",
+    "url": "https://stream.mux.com/QZsbxhV2ceWGdd2qwwAJzdHWTOLXaMovBmvAEq5eDJY.m3u8?redundant_streams=true"
+  },
+  "146": {
+    "title": "invariant-t-sol",
+    "section": "tswap",
+    "url": "https://stream.mux.com/ocof300Xrlq02CyqKvJe5Ddr6GISNFBl02K2gH2pr00oes00.m3u8?redundant_streams=true"
+  },
+  "147": {
+    "title": "handler-t-sol",
+    "section": "tswap",
+    "url": "https://stream.mux.com/ApSkCH1snVHGLn101EXtkXyn1j100JwUiatcBA501D6n7o.m3u8?redundant_streams=true"
+  },
+  "148": {
+    "title": "handler-swap-function",
+    "section": "tswap",
+    "url": "https://stream.mux.com/ODM2r11y00SBBLuBISkxsjJS8gu7T800qBC00xz6Hp1Qf4.m3u8?redundant_streams=true"
+  },
+  "149": {
+    "title": "final-invariant-and-tweaks",
+    "section": "tswap",
+    "url": "https://stream.mux.com/to1lD02l00jStNb9SW9VG4RqWRQban9mnbh8AdBZEwTPY.m3u8?redundant_streams=true"
+  },
+  "150": {
+    "title": "debugging-the-fuzzer",
+    "section": "tswap",
+    "url": "https://stream.mux.com/zO5xGKOv629jSkzOJa1VOs9vtd01Ye8ZUaGODCpiOmCs.m3u8?redundant_streams=true"
+  },
+  "151": {
+    "title": "one-last-huzzah",
+    "section": "tswap",
+    "url": "https://stream.mux.com/AA8PgFAa02NjRytkaRt3a902XF5KfYP4yTPnhDMDN9BD4.m3u8?redundant_streams=true"
+  },
+  "152": {
+    "title": "notes-on-invariants",
+    "section": "tswap",
+    "url": "https://stream.mux.com/O8RK1gGeIBoX1b01gR3M008uMhVW2mT01BnXL1NN00urwsg.m3u8?redundant_streams=true"
+  },
+  "153": {
+    "title": "recon-manual-review-introduction",
+    "section": "tswap",
+    "url": "https://stream.mux.com/ilK5K02h00Z3aDKoX02B018ZtF2s9AfC1oOYbKHhf00SKtDM.m3u8?redundant_streams=true"
+  },
+  "154": {
+    "title": "t-swap-manual-review-slither",
+    "section": "tswap",
+    "url": "https://stream.mux.com/E101UChmT02NMDb1SquvieKmJKSnMZ2PNizDfc2fvMgGo.m3u8?redundant_streams=true"
+  },
+  "155": {
+    "title": "manual-review-aderyn",
+    "section": "tswap",
+    "url": "https://stream.mux.com/7VCF3MufhYfxh02xhSjgRo7rnV0202nfw02jzTF200aUY9N8.m3u8?redundant_streams=true"
+  },
+  "156": {
+    "title": "pool-factory",
+    "section": "tswap",
+    "url": "https://stream.mux.com/qLPEwquLPE8IyA00d00ksftrLHwenhkfs1Q6N1gkGOaDE.m3u8?redundant_streams=true"
+  },
+  "157": {
+    "title": "manual-review-swap-pool",
+    "section": "tswap",
+    "url": "https://stream.mux.com/hFYrteG2NK6Ti1gGz02qYPjlLpqY1RFMzIjd5AHMV3aI.m3u8?redundant_streams=true"
+  },
+  "158": {
+    "title": "using-the-compiler-as-static-analysis-tool",
+    "section": "tswap",
+    "url": "https://stream.mux.com/npVMXIL02YMej5rtRqVW7PoUXjI5Ba01ALmpqrXtulx6I.m3u8?redundant_streams=true"
+  },
+  "159": {
+    "title": "add-liquidity",
+    "section": "tswap",
+    "url": "https://stream.mux.com/lK3301uIz7lGHC3ISga4hKnYeqeGElaeygFTOI501dRIE.m3u8?redundant_streams=true"
+  },
+  "160": {
+    "title": "remove-liquidity",
+    "section": "tswap",
+    "url": "https://stream.mux.com/PpfW7RKBVaMN3veF6drxOw6f4x5aew02AptDAJjYwwu4.m3u8?redundant_streams=true"
+  },
+  "161": {
+    "title": "exact-input",
+    "section": "tswap",
+    "url": "https://stream.mux.com/d6L5jR87DTOf8cs2B8BskBs7OOTbvb023iJ83jdweYVY.m3u8?redundant_streams=true"
+  },
+  "162": {
+    "title": "exact-output",
+    "section": "tswap",
+    "url": "https://stream.mux.com/IoZUDfcDUVdE2TASKteE02Ua3K2Se9Vr9g3rkYUqIvTE.m3u8?redundant_streams=true"
+  },
+  "163": {
+    "title": "sell-pool-tokens",
+    "section": "tswap",
+    "url": "https://stream.mux.com/kZlzgcW188ACKWIgF22WMaI5YPz00fKhxnqyAVsb01R02g.m3u8?redundant_streams=true"
+  },
+  "164": {
+    "title": "checking-the last-few-function",
+    "section": "tswap",
+    "url": "https://stream.mux.com/pc1198YNWOPjyAu1XeoPhG7yHUBJQIfwaGis00HFvf01I.m3u8?redundant_streams=true"
+  },
+  "165": {
+    "title": "phase-4-reporting",
+    "section": "tswap",
+    "url": "https://stream.mux.com/LKSp1WG4W02g278MrfgGKTPDViTeUNM1B91AtluF3pHc.m3u8?redundant_streams=true"
+  },
+  "166": {
+    "title": "missing-deadline-write-up",
+    "section": "tswap",
+    "url": "https://stream.mux.com/qteV4pVLpsb8eUQBXdkS3B101u1rYEMc00KsswAsTVjNM.m3u8?redundant_streams=true"
+  },
+  "167": {
+    "title": "reporting-continued",
+    "section": "tswap",
+    "url": "https://stream.mux.com/HReyNYNiSfwfTTDBQ9zmnGzghKq6uvwPvX5C6Q3wk6M.m3u8?redundant_streams=true"
+  },
+  "168": {
+    "title": "no-slippage-protection",
+    "section": "tswap",
+    "url": "https://stream.mux.com/eHewVkWuIUf71ykZTpqwKOSut5pWhRg99KNLcPgokFM.m3u8?redundant_streams=true"
+  },
+  "169": {
+    "title": "sell-pool-tokens-write-up",
+    "section": "tswap",
+    "url": "https://stream.mux.com/b6WPpEmm018lYqnwV7ZOWMjlyqNT3DpLIFuo6awA7jx00.m3u8?redundant_streams=true"
+  },
+  "170": {
+    "title": "invariant-break-write-up-and-poc",
+    "section": "tswap",
+    "url": "https://stream.mux.com/D1S2sYFj00KC00K4crzZ501cig8KZLOBKeH17WMs4zfAUk.m3u8?redundant_streams=true"
+  },
+  "171": {
+    "title": "writeup-weird-erc20",
+    "section": "tswap",
+    "url": "https://stream.mux.com/h2ZqgrKiyVgW28uUdPiNb9mipWOyHfnnrweMBoau4FY.m3u8?redundant_streams=true"
+  },
+  "172": {
+    "title": "creating-pdf-for-your-portfolio",
+    "section": "tswap",
+    "url": "https://stream.mux.com/z2O5AahTaDsqpOBVWwiPJgwJK6Znza5wzsGZbLl1rRU.m3u8?redundant_streams=true"
+  },
+  "173": {
+    "title": "recap",
+    "section": "tswap",
+    "url": "https://stream.mux.com/OPWMnJ6eyRrsMexylCRIaU4900uXYDjn6EogptmHQ5Zc.m3u8?redundant_streams=true"
+  },
+  "174": {
+    "title": "exercises",
+    "section": "tswap",
+    "url": "https://stream.mux.com/v01JVS2ZF5X00q89OsRxM9dIqqnwn00rLiWtr2wg02S136A.m3u8?redundant_streams=true"
+  },
+  "175": {
+    "title": "introduction",
+    "section": "thunder-loan",
+    "url": "https://stream.mux.com/zWgkMEoGiBV9K02UTK67D7AOzef9X8dKVwf01H6f5zyog.m3u8?redundant_streams=true"
+  },
+  "176": {
+    "title": "phase-1-scoping",
+    "section": "thunder-loan",
+    "url": "https://stream.mux.com/u91px009roNkxQdo6qtN4GOaDslvZl02CZHLP2KRYNpHs.m3u8?redundant_streams=true"
+  },
+  "177": {
+    "title": "reading-the-docs",
+    "section": "thunder-loan",
+    "url": "https://stream.mux.com/L00fSQwGicEQySCtH3D2IZKKr33RuAddtg1HSkTmUiXE.m3u8?redundant_streams=true"
+  },
+  "178": {
+    "title": "what-is-flash-loan",
+    "section": "thunder-loan",
+    "url": "https://stream.mux.com/9B9TNLY54bU002eMXzRXadkcFIp5Y1CL80052CHQY02wi00.m3u8?redundant_streams=true"
+  },
+  "179": {
+    "title": "pay-back-or-revert",
+    "section": "thunder-loan",
+    "url": "https://stream.mux.com/pLXbCpqEbRA01NQhoU5y5W008C6nkngGL2b8EGU35EgZw.m3u8?redundant_streams=true"
+  },
+  "180": {
+    "title": "liquidity-providers",
+    "section": "thunder-loan",
+    "url": "https://stream.mux.com/ew8JjN2FI00eh02sqeX5FIlpwQJrJV4rr901W01f2hgF3bg.m3u8?redundant_streams=true"
+  },
+  "181": {
+    "title": "arbitrage-walkthrough",
+    "section": "thunder-loan",
+    "url": "https://stream.mux.com/z5N007sMkjW2KPaWATi7YVTQsuPk8sk1IVi79rdCuJGA.m3u8?redundant_streams=true"
+  },
+  "182": {
+    "title": "are-flash-loans-bad",
+    "section": "thunder-loan",
+    "url": "https://stream.mux.com/oTkNg6P5CSDG6JOX4zoCD2NH3QW8TwVSeZ4NXYq5urM.m3u8?redundant_streams=true"
+  },
+  "183": {
+    "title": "recap",
+    "section": "thunder-loan",
+    "url": "https://stream.mux.com/xjBhcXE00cV1Ck7wCQzvWai1GE9i00vr9OQp6UN902DJzA.m3u8?redundant_streams=true"
+  },
+  "184": {
+    "title": "recon-continued",
+    "section": "thunder-loan",
+    "url": "https://stream.mux.com/pU3ti8RWxJn9twmnJ7bX6023k3CyVr44F3HW7pBvjx200.m3u8?redundant_streams=true"
+  },
+  "185": {
+    "title": "static-analysis-slither-aderyn",
+    "section": "thunder-loan",
+    "url": "https://stream.mux.com/jUA01mnh602HYtZLRdlmJwu1bc9xT01vACwwwZcXNmg73w.m3u8?redundant_streams=true"
+  },
+  "186": {
+    "title": "exploit-centralization",
+    "section": "thunder-loan",
+    "url": "https://stream.mux.com/agXO01DKEutJjgPTKyucKjWI01KGYiXven4cJg8gPNKwo.m3u8?redundant_streams=true"
+  },
+  "187": {
+    "title": "case-study-oasis",
+    "section": "thunder-loan",
+    "url": "https://stream.mux.com/01tl9ytnUSHzqH9WFKMKAhEnguCvd02E02EChawvxRlLsU.m3u8?redundant_streams=true"
+  },
+  "188": {
+    "title": "static-analysis-continued",
+    "section": "thunder-loan",
+    "url": "https://stream.mux.com/33fYTX8nWMzZ4ht4z9m00qfx9ogYtjL14J13bhZJtlv8.m3u8?redundant_streams=true"
+  },
+  "189": {
+    "title": "recon-ipoolfactory",
+    "section": "thunder-loan",
+    "url": "https://stream.mux.com/5d100hkLtDwSGLk4ibstw700fikz1RQ4T00c8Bj31rHfOA.m3u8?redundant_streams=true"
+  },
+  "190": {
+    "title": "itswappool",
+    "section": "thunder-loan",
+    "url": "https://stream.mux.com/Sgp1kQyHpxrzWfP6dsnvyYG72fZN02tFxUwMU00D8Dd5A.m3u8?redundant_streams=true"
+  },
+  "191": {
+    "title": "ithunderloan",
+    "section": "thunder-loan",
+    "url": "https://stream.mux.com/33VDcKF5DO2IS6By1z0100S017z99vM3DkWaEuH747NflI.m3u8?redundant_streams=true"
+  },
+  "192": {
+    "title": "flashloan-receiver",
+    "section": "thunder-loan",
+    "url": "https://stream.mux.com/dpk00F5e5kJZmDdKrppCF1j9jyxzvx6SFe7J001M01oPRI.m3u8?redundant_streams=true"
+  },
+  "193": {
+    "title": "oracle-upgradeable",
+    "section": "thunder-loan",
+    "url": "https://stream.mux.com/dScx48n2ImjtOfzadSAaazduEiHd00WBV5dyXUAJMLho.m3u8?redundant_streams=true"
+  },
+  "194": {
+    "title": "failure-to-initialize",
+    "section": "thunder-loan",
+    "url": "https://stream.mux.com/PBPuXLJ6QH7F75S7iVFz6FqctiT2TTVhE3TxkePo3fE.m3u8?redundant_streams=true"
+  },
+  "195": {
+    "title": "failure-to-initialize-remix",
+    "section": "thunder-loan",
+    "url": "https://stream.mux.com/Xh00ZispxghC01TQHMyym00026COmnCn5ygOKWvjKs81w4Y.m3u8?redundant_streams=true"
+  },
+  "196": {
+    "title": "failure-to-initialize-case-study",
+    "section": "thunder-loan",
+    "url": "https://stream.mux.com/qEZ600bi01W3vprQBwXGT101w2LAsgKvl01bZzjS028JHgtQ.m3u8?redundant_streams=true"
+  },
+  "197": {
+    "title": "oracleupgradeable-continued",
+    "section": "thunder-loan",
+    "url": "https://stream.mux.com/vnQoMafObsu1DgT01laAf0102BcTD88d6AV5DYH2BCz5Qg.m3u8?redundant_streams=true"
+  },
+  "198": {
+    "title": "assettoken",
+    "section": "thunder-loan",
+    "url": "https://stream.mux.com/9vg9eb8orNC2U3VNkpkvJOLfSzRiPC8TPu26uuqIU400.m3u8?redundant_streams=true"
+  },
+  "199": {
+    "title": "asset-token-update-exchange-rate",
+    "section": "thunder-loan",
+    "url": "https://stream.mux.com/bgmtCLets91K6QuBooY1r5RcIslnzXZLYqRmZPCLJUg.m3u8?redundant_streams=true"
+  },
+  "200": {
+    "title": "thunderloan-starting-at-the-top",
+    "section": "thunder-loan",
+    "url": "https://stream.mux.com/f1IpKW4LR6QUm3V7DWwnXIp5Pno022WuYMkMFyJqN71Y.m3u8?redundant_streams=true"
+  },
+  "201": {
+    "title": "thunderloan-functions",
+    "section": "thunder-loan",
+    "url": "https://stream.mux.com/NDd01ZCx8HtMKpkGgZhXyNea02ghmGz8co4K6WdmX00EmQ.m3u8?redundant_streams=true"
+  },
+  "202": {
+    "title": "testing-deleting-mappings",
+    "section": "thunder-loan",
+    "url": "https://stream.mux.com/JQQsYsbP6ROypwK7802vWVRc163DtCQDtd4fUlUIM8Q4.m3u8?redundant_streams=true"
+  },
+  "203": {
+    "title": "note-on-linear-progress",
+    "section": "thunder-loan",
+    "url": "https://stream.mux.com/p01naqjLJp2ZRu00gU7TJgYticLIfIrkO7lAS4nG9FUC4.m3u8?redundant_streams=true"
+  },
+  "204": {
+    "title": "thunderloan-continued",
+    "section": "thunder-loan",
+    "url": "https://stream.mux.com/CLFwX7c7IpFlLXaaXRWiRdAElwI9C9o14xpJmSOO016g.m3u8?redundant_streams=true"
+  },
+  "205": {
+    "title": "diagramming-thunderloan",
+    "section": "thunder-loan",
+    "url": "https://stream.mux.com/uRxx2sXvfvMwm63IgNfNtEJIZW8Rr5101ggaObmKTmoM.m3u8?redundant_streams=true"
+  },
+  "206": {
+    "title": "thunderloan-redeem",
+    "section": "thunder-loan",
+    "url": "https://stream.mux.com/UDidaP003wldQY55X99EvQ02723BGqVBOFtx5Ez024NNaw.m3u8?redundant_streams=true"
+  },
+  "207": {
+    "title": "thunderloan-flashloan",
+    "section": "thunder-loan",
+    "url": "https://stream.mux.com/mIat702o8cYQBwwz9jQMIXOO855n02G2sn26Wu9wwQFmQ.m3u8?redundant_streams=true"
+  },
+  "208": {
+    "title": "note-on-being-discouraged",
+    "section": "thunder-loan",
+    "url": "https://stream.mux.com/hOBNkY3LshFw5mv9WRuS61yKT477CvLgoPFeV6yzsIw.m3u8?redundant_streams=true"
+  },
+  "209": {
+    "title": "thunderloan-repay-final-functions",
+    "section": "thunder-loan",
+    "url": "https://stream.mux.com/Ee00dg01KILGC00j6gt18HujZeTD952asb5VyFl01L6Tt2A.m3u8?redundant_streams=true"
+  },
+  "210": {
+    "title": "answering-our-questions",
+    "section": "thunder-loan",
+    "url": "https://stream.mux.com/4oCBj00yM8y8cNhVqZdHkFscX8kceq2I101aCKxCrKgYA.m3u8?redundant_streams=true"
+  },
+  "211": {
+    "title": "improving-test-coverage-to-find-a-high",
+    "section": "thunder-loan",
+    "url": "https://stream.mux.com/02CWQ02hUiGoFVcMcbSN00LUYOtzjbmQjC4FXWTa859bvQ.m3u8?redundant_streams=true"
+  },
+  "212": {
+    "title": "exploit-oracle-manipulation-intro",
+    "section": "thunder-loan",
+    "url": "https://stream.mux.com/2xZ01jBXrDLTsaU01q1GTXGd00DlAlDDq64RfC4RB1iMe8.m3u8?redundant_streams=true"
+  },
+  "213": {
+    "title": "exploit-oracle-manipulation-minimized",
+    "section": "thunder-loan",
+    "url": "https://stream.mux.com/q4GhJAaGGAGtpuGbtE6jrfwZWH00wO701PHNn67Bdz99M.m3u8?redundant_streams=true"
+  },
+  "214": {
+    "title": "exploit-oracle-manipulation-thunderloan-poc",
+    "section": "thunder-loan",
+    "url": "https://stream.mux.com/a4UbnhGl8ThvI00EdJPma8Jmtj01oQlaB3cJT8HsI302WI.m3u8?redundant_streams=true"
+  },
+  "215": {
+    "title": "oracle-manipulation-recap",
+    "section": "thunder-loan",
+    "url": "https://stream.mux.com/zfn2qV1R9DLzY01cCx0202A1AmKMgv01JD2CQ6jDjqRu4k4.m3u8?redundant_streams=true"
+  },
+  "216": {
+    "title": "exploit-deposit-instead-of-repay",
+    "section": "thunder-loan",
+    "url": "https://stream.mux.com/xBK8ONKHfUhKR502jyhUSOAcW8psGZD3gmo8a8dTQLj00.m3u8?redundant_streams=true"
+  },
+  "217": {
+    "title": "exploit-storage-collision-storage-refresher",
+    "section": "thunder-loan",
+    "url": "https://stream.mux.com/EuCI9yCpCAPJ1K200700qQhxOPjVp5t02Ct1HVJp4EoQjw.m3u8?redundant_streams=true"
+  },
+  "218": {
+    "title": "exploit-storage-collision-diagram",
+    "section": "thunder-loan",
+    "url": "https://stream.mux.com/dhuoCxUT1dYwkyqoVhWMIdNIg91ZB8Ww5AlZJMAXSgk.m3u8?redundant_streams=true"
+  },
+  "219": {
+    "title": "exploit-storage-collision-remix-examplee",
+    "section": "thunder-loan",
+    "url": "https://stream.mux.com/Ve7UtIWnU8btUpoL901HBjaaqSN006st9wo4nczp856fg.m3u8?redundant_streams=true"
+  },
+  "220": {
+    "title": "exploit-storage-collision-poc",
+    "section": "thunder-loan",
+    "url": "https://stream.mux.com/DjxH2VIkbso7ztm1Mv1AIyUCROCftVZqQfrkBBFR1nI.m3u8?redundant_streams=true"
+  },
+  "221": {
+    "title": "exploit-storage-collision-write-up",
+    "section": "thunder-loan",
+    "url": "https://stream.mux.com/2vM1n1LgRGWdIWrYSTOwO4PJjFQ5yjDMycUmO00noceI.m3u8?redundant_streams=true"
+  },
+  "222": {
+    "title": "wrapping-up",
+    "section": "thunder-loan",
+    "url": "https://stream.mux.com/un3Q5qFoTpb7xNzlxhxL2019n7iRzPk1tonjNREHf700o.m3u8?redundant_streams=true"
+  },
+  "223": {
+    "title": "section-6-recap",
+    "section": "thunder-loan",
+    "url": "https://stream.mux.com/X02Z901eEf1F4TaMTbnG3VY31sCSEwFmxwmL8rpslepto.m3u8?redundant_streams=true"
+  },
+  "224": {
+    "title": "part-intro",
+    "section": "bridges",
+    "url": "https://stream.mux.com/UOd1naVgBvDrM6bfbDEunjXlMo4rq7HqvZ0002Ree102Zs.m3u8?redundant_streams=true"
+  },
+  "225": {
+    "title": "phase-1-scoping",
+    "section": "bridges",
+    "url": "https://stream.mux.com/CrqWU5yUS69Y00Jzrrr6Rc1pc4t5uUX00sMtUNPcNUKas.m3u8?redundant_streams=true"
+  },
+  "226": {
+    "title": "recon",
+    "section": "bridges",
+    "url": "https://stream.mux.com/ivB900sX48JF7N02aUvOS01U7Lg1LnDddOWYfHTeVGDGlI.m3u8?redundant_streams=true"
+  },
+  "227": {
+    "title": "checklist",
+    "section": "bridges",
+    "url": "https://stream.mux.com/x5BUf3muNj01dX5CBkhrVcXFhl0236gYCgzGfX2uNr7xA.m3u8?redundant_streams=true"
+  },
+  "228": {
+    "title": "Docs",
+    "section": "bridges",
+    "url": "https://stream.mux.com/mq7UPZlyX1LE9euvtNg5ngqlXrbeIDpTrenEiqU0097I.m3u8?redundant_streams=true"
+  },
+  "229": {
+    "title": "boss-bridge-diagram",
+    "section": "bridges",
+    "url": "https://stream.mux.com/ofSZi6DuGeL01HATXfvtjSBttM5Rejb9ABM38GJhi01hA.m3u8?redundant_streams=true"
+  },
+  "230": {
+    "title": "l1-token",
+    "section": "bridges",
+    "url": "https://stream.mux.com/00WrYIi3u4Z9LIA2sDFwZwl89mDkOh01B2Hy27VGy1gVQ.m3u8?redundant_streams=true"
+  },
+  "231": {
+    "title": "vault-sol",
+    "section": "bridges",
+    "url": "https://stream.mux.com/J02cZ02Livh01JhXcYvw00hREKQILG00Qot4NRmW3Rj8m7To.m3u8?redundant_streams=true"
+  },
+  "232": {
+    "title": "yul-opcodes",
+    "section": "bridges",
+    "url": "https://stream.mux.com/FTQ6is6V13NrQI623zRmb5GF1EkYtqHQRLsjdX6x1EA.m3u8?redundant_streams=true"
+  },
+  "233": {
+    "title": "unsupported-opcodes",
+    "section": "bridges",
+    "url": "https://stream.mux.com/Olg01CRyrYZLhJCbyG4KBn9VIo6zvyswwLiSazYbVJxw.m3u8?redundant_streams=true"
+  },
+  "234": {
+    "title": "bossbridge",
+    "section": "bridges",
+    "url": "https://stream.mux.com/AxU02OpN3bg4XyqKb6CCFmU5OC7BDkz00bffaN7UwPoR8.m3u8?redundant_streams=true"
+  },
+  "235": {
+    "title": "signatures",
+    "section": "bridges",
+    "url": "https://stream.mux.com/1ZNP8H02sscgO0000O02b00I19008ik4oDgK2yZXmp02V6fzwM.m3u8?redundant_streams=true"
+  },
+  "236": {
+    "title": "signatures-summarized",
+    "section": "bridges",
+    "url": "https://stream.mux.com/XzLvDRREawshom6LTDaRubvu1fEEbMx00zSFWhGOAju8.m3u8?redundant_streams=true"
+  },
+  "237": {
+    "title": "eip-712",
+    "section": "bridges",
+    "url": "https://stream.mux.com/vdP00zrEelCOIE244w02FPCcWzk01PD7O9nTK01hp9STveE.m3u8?redundant_streams=true"
+  },
+  "238": {
+    "title": "polygon",
+    "section": "bridges",
+    "url": "https://stream.mux.com/7WW5yHQv7mvZuW9qM4Lu4G2DdUU101LcSXVAk6zk8jzI.m3u8?redundant_streams=true"
+  },
+  "239": {
+    "title": "signature-recap",
+    "section": "bridges",
+    "url": "https://stream.mux.com/N21xX6007LOERBNigJ3lZx1LhiLcZZL9q39ydbdg2qDE.m3u8?redundant_streams=true"
+  },
+  "240": {
+    "title": "recon-continued",
+    "section": "bridges",
+    "url": "https://stream.mux.com/k6II2HndqksTgobKwPIsL4WuLGwgNvULr00YCkpSmgGE.m3u8?redundant_streams=true"
+  },
+  "241": {
+    "title": "deposit-token",
+    "section": "bridges",
+    "url": "https://stream.mux.com/I009kVxdv1EopfnFCnpgvb84Z00gxgx8dYaxWxF2CCqxI.m3u8?redundant_streams=true"
+  },
+  "242": {
+    "title": "arbitrary",
+    "section": "bridges",
+    "url": "https://stream.mux.com/9bsX7eSOMPhvP9rnvXqx01pX9OeirAfJDT00BxwitEQwk.m3u8?redundant_streams=true"
+  },
+  "243": {
+    "title": "arbitrary-poc",
+    "section": "bridges",
+    "url": "https://stream.mux.com/tjGKINP7sYzrOQSXpLV1bru9aYtRVdMJ6ynAun56KxI.m3u8?redundant_streams=true"
+  },
+  "244": {
+    "title": "recon-continued-again",
+    "section": "bridges",
+    "url": "https://stream.mux.com/6fX7WXRImMzawIVLKIMwGITCyB8eGpZbXlKy01kAWD5I.m3u8?redundant_streams=true"
+  },
+  "245": {
+    "title": "vault",
+    "section": "bridges",
+    "url": "https://stream.mux.com/g6QF8ql51Gymgf84dIG9bsuRqA6o0082SyAvUogwKbT00.m3u8?redundant_streams=true"
+  },
+  "246": {
+    "title": "why-not-the-same",
+    "section": "bridges",
+    "url": "https://stream.mux.com/nDcqp1KrhHtFuotKGO8xpAi35p8iA9PCxsiOkd900c01U.m3u8?redundant_streams=true"
+  },
+  "247": {
+    "title": "recon-again-again",
+    "section": "bridges",
+    "url": "https://stream.mux.com/02uyrS2neealp6yHRU3JEBxzwSEyxbPgSnZcFHcJqraI.m3u8?redundant_streams=true"
+  },
+  "248": {
+    "title": "exploit-replay",
+    "section": "bridges",
+    "url": "https://stream.mux.com/kGbJsEKbl8Jg0142FtHkcPOKZJ3KOU2J1al7401o1dVD00.m3u8?redundant_streams=true"
+  },
+  "249": {
+    "title": "replay-minimizd",
+    "section": "bridges",
+    "url": "https://stream.mux.com/HWlULSjWO2Be401V8KlE02sJ2XGUnvQYXULzRyVOav5nI.m3u8?redundant_streams=true"
+  },
+  "250": {
+    "title": "signature-replay-protection",
+    "section": "bridges",
+    "url": "https://stream.mux.com/uwDa5bKISoR7P02zdfarzlffYREMj931TsFSkF1H028QA.m3u8?redundant_streams=true"
+  },
+  "251": {
+    "title": "sig-replay-prevention",
+    "section": "bridges",
+    "url": "https://stream.mux.com/ifhNh02kZjmFSAHbVAKD02tcb4HwKmcejLxfUTWtmEs8s.m3u8?redundant_streams=true"
+  },
+  "252": {
+    "title": "low-level-exploit",
+    "section": "bridges",
+    "url": "https://stream.mux.com/qd5NSTSSWw302bgds6b1LKNcftp6u2EHj025k802fxlvSM.m3u8?redundant_streams=true"
+  },
+  "253": {
+    "title": "gas-bomb",
+    "section": "bridges",
+    "url": "https://stream.mux.com/Gtt6PwqEuAVgUm1tNatgGY92DOHQPq3hCREGKuTK2gY.m3u8?redundant_streams=true"
+  },
+  "254": {
+    "title": "recap",
+    "section": "bridges",
+    "url": "https://stream.mux.com/g23PPjlY5QwPaT2z8gmK1D3e02d25ztT02ZOrH01J02LGpA.m3u8?redundant_streams=true"
+  },
+  "255": {
+    "title": "exercises",
+    "section": "bridges",
+    "url": "https://stream.mux.com/umaQ401mT6GCPgv3q3hN3q18xsx01eu53hjeuIutYVbdQ.m3u8?redundant_streams=true"
+  },
+  "256": {
+    "title": "introduction",
+    "section": "mev-and-governance",
+    "url": "https://stream.mux.com/rcS02v21CEbLI8Nme5pkCNHzcPypVaNL6Zd1FtxKSTbo.m3u8?redundant_streams=true"
+  },
+  "257": {
+    "title": "perseverance",
+    "section": "mev-and-governance",
+    "url": "https://stream.mux.com/1Qz2YH01L1v00UbX1g02RwfshNHnZPuUHPw1HBjca5n01Gc.m3u8?redundant_streams=true"
+  },
+  "258": {
+    "title": "mev-introduction",
+    "section": "mev-and-governance",
+    "url": "https://stream.mux.com/3EveL1jnQyw1MiIlwT5qq8x4iNPqFJBAiduhGUKPNQQ.m3u8?redundant_streams=true"
+  },
+  "259": {
+    "title": "mev-minimized",
+    "section": "mev-and-governance",
+    "url": "https://stream.mux.com/j1F002AUlf7n4FGid4AwVqOPtNm9FjsOOffo01iifRjgY.m3u8?redundant_streams=true"
+  },
+  "260": {
+    "title": "mev-in-puppy-raffle",
+    "section": "mev-and-governance",
+    "url": "https://stream.mux.com/pVn6Z3G3nmIHmvlHnGCS00hVmBHpjkPUBn02m8zoMDMdk.m3u8?redundant_streams=true"
+  },
+  "261": {
+    "title": "mev-t-swap",
+    "section": "mev-and-governance",
+    "url": "https://stream.mux.com/V3x8jRm79qgJUvw01SHO91EuBX2W1ARtHp4obLRTnOog.m3u8?redundant_streams=true"
+  },
+  "262": {
+    "title": "mev-thunder-loan",
+    "section": "mev-and-governance",
+    "url": "https://stream.mux.com/gxPmR02VCgIdep12CnS6OxSh4Lcl2C801uHO2WI4hF02bU.m3u8?redundant_streams=true"
+  },
+  "263": {
+    "title": "mev-boss-bridge",
+    "section": "mev-and-governance",
+    "url": "https://stream.mux.com/Y00YoudniEn00sg01LlzRWNA2OFBUdTxipEXJh001NPQ9vE.m3u8?redundant_streams=true"
+  },
+  "264": {
+    "title": "mev-live",
+    "section": "mev-and-governance",
+    "url": "https://stream.mux.com/MRpS3YaA1Tczbj5qZ1006xq01GcSFosgwmb3wUUS8LgcI.m3u8?redundant_streams=true"
+  },
+  "265": {
+    "title": "mev-live-again",
+    "section": "mev-and-governance",
+    "url": "https://stream.mux.com/tt022yw1eZE34rM01tk5ffoQEMrVE6vw9ZnsEyjrRRBjQ.m3u8?redundant_streams=true"
+  },
+  "266": {
+    "title": "case-study-pashov",
+    "section": "mev-and-governance",
+    "url": "https://stream.mux.com/CVVQOfXFAO01PFuY5YC01L73sxl2AqmLSmeBZZ026W2azM.m3u8?redundant_streams=true"
+  },
+  "267": {
+    "title": "mev-prevention",
+    "section": "mev-and-governance",
+    "url": "https://stream.mux.com/Bl73cdulINgQh4sc3J4xoxLUcJ300qaxmp2MXb00NvlZM.m3u8?redundant_streams=true"
+  },
+  "268": {
+    "title": "mev-recap",
+    "section": "mev-and-governance",
+    "url": "https://stream.mux.com/ohCKCC01cUCNlj0202cS36Z4TDdSi01SgvfGuNcLkuOAvQk.m3u8?redundant_streams=true"
+  },
+  "269": {
+    "title": "governance-attack-intro",
+    "section": "mev-and-governance",
+    "url": "https://stream.mux.com/SR9klB02AgWU02OnuYturXAzUwDhG1rz5YwUewUW6mRbI.m3u8?redundant_streams=true"
+  },
+  "270": {
+    "title": "case-study-bean",
+    "section": "mev-and-governance",
+    "url": "https://stream.mux.com/5BnEkscLdV3LgCWXHZFHmaQMIxTHFFO1MxUOXox5OOo.m3u8?redundant_streams=true"
+  },
+  "271": {
+    "title": "end-part-1",
+    "section": "mev-and-governance",
+    "url": "https://stream.mux.com/4jQ4wHrFAm2RLQCut16euCCa7JoidyrfDGeonxwGe8U.m3u8?redundant_streams=true"
+  }
+}
