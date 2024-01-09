@@ -24,7 +24,7 @@ def rename(title, i):
 
 
 # put all the section inside videos folder
-os.chdir('videos')
+os.chdir('videos3')
 for section in os.listdir():
 	print('section', section)
 	os.chdir(section)
@@ -33,13 +33,17 @@ for section in os.listdir():
 	for video in os.listdir():
 
 		# run this function once to rename title
-		# title = rename(video, i)
-		# print(title)
-		# os.rename(video, title)
+		# while runing this function comment ts_to_mp4 function
+		#title = rename(video, i)
+		#print(title)
+		#os.rename(video, title)
 		ts_list.append(video)
 		i+=1
 
+        # uncomment after rename title and run the app again
 	ts_to_mp4(ts_list)
 	ts_list = []
 	print()
 	os.chdir('..')
+
+print('All videos converted')
