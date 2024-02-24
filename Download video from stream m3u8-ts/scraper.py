@@ -65,13 +65,17 @@ def load_info():
 # return the uri with specific resolution
 def playlist_info(uri):
 	r = session.get(uri)
-	time.sleep(sleeper())
+	# r.elapsed.total_seconds() gives response time
+	time.sleep(r.elapsed.total_seconds())
+
 	obj = m3u8.loads(r.text)
 
 	# extract info from m3u8 object
-	print()
-	print('Video resolution', obj.data['playlists'][4]['stream_info']['resolution'])
-	return obj.data['playlists'][4]['uri']
+	# find out which playlists index has how much resolution
+	# playlists index change on different run of this program
+	# print(obj.data['playlists'][2]['stream_info']['resolution'])
+	print('Video resolution', obj.data['playlists'][2]['stream_info']['resolution'])
+	return obj.data['playlists'][2]['uri']
 
 # save multiple transport stream(ts) file into one ts file
 # request on a specific resolution uri it returns a obj with 
@@ -122,10 +126,14 @@ def start_scraping(vid_info):
 url = 'https://updraft.cyfrin.io/courses/security/smart-contract-security-introduction/trailer'
 
 # Run this function to save all information
-# save_info(url)
+save_info(url)
 
-vid_info = load_info()
+# ----------------------------
+# uncomment after save_info(url) run
+# comment save_info(url)
 
-# total number of video info loaded
-print(len(vid_info))
-start_scraping(vid_info)
+# vid_info = load_info()
+
+# # total number of video info loaded
+# print(len(vid_info))
+# start_scraping(vid_info)
